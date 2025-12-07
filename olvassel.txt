@@ -1,16 +1,17 @@
-Bertók András
+Bert‚Äîk Andr‚Ä°s
 
-A mıködŒ weboldal URL címe
+https://bandiboss06.github.io/weboldal/
 
-A weboldal egy egyszerı, könnyen használható költségkövetŒ rendszer, amellyel a felhasználó rögzítheti a mindennapi kiadásait.
-A rögzített adatokból statisztikák és egyszerı grafikon készül, hogy könnyebb legyen átlátni a költekezést.
+A weboldal egy egyszer≈ë, k≈°nnyen haszn‚Ä°lhat‚Äî k≈°lts≈Ωgk≈°vet√é rendszer, amellyel a felhaszn‚Ä°l‚Äî r≈°gz‚Äôtheti a mindennapi kiad‚Ä°sait.
+A r≈°gz‚Äôtett adatokb‚Äîl statisztik‚Ä°k ≈Ωs egyszer≈ë grafikon k≈Ωsz≈∫l, hogy k≈°nnyebb legyen ‚Ä°tl‚Ä°tni a k≈°ltekez≈Ωst.
 
-A JavaScript fájl a "js/app.js" útvonalon található.
-Feladata az ırlapok (költség-rögzítés) validálása, az adatok tárolása a böngészŒ localStorage-ében, valamint a statisztikák és a grafikon megjelenítése a statisztikák oldalon.
+A JavaScript f‚Ä°jl a "js/app.js" ≈õtvonalon tal‚Ä°lhat‚Äî.
+Feladata az ≈ërlapok (k≈°lts≈Ωg-r≈°gz‚Äôt≈Ωs) valid‚Ä°l‚Ä°sa, az adatok t‚Ä°rol‚Ä°sa a b≈°ng≈Ωsz√é localStorage-≈Ωben, valamint a statisztik‚Ä°k ≈Ωs a grafikon megjelen‚Äôt≈Ωse a statisztik‚Ä°k oldalon.
 
-A weboldal a Google Fonts szolgáltatásból tölti be a "Poppins" betıtípust.
-A betıtípusok a HTML oldalak <head> részében kerülnek importálásra.
+A weboldal a Google Fonts szolg‚Ä°ltat‚Ä°sb‚Äîl t≈°lti be a "Poppins" bet≈ët‚Äôpust.
+A bet≈ët‚Äôpusok a HTML oldalak <head> r≈Ωsz≈Ωben ker≈∫lnek import‚Ä°l‚Ä°sra.
 
-A projektben felhasznált külsŒ forrás:
-- Google Fonts betıtípus
-- a JavaScript kódnál segített egyes részeknél a ChatGPT, illetve ez a youtube videó: https://www.youtube.com/watch?v=EerdGm-ehJQ
+A projektben felhaszn‚Ä°lt k≈∫ls√é forr‚Ä°s:
+- Google Fonts bet≈ët‚Äôpus
+- a JavaScript k‚Äîdn‚Ä°l seg‚Äôtett egyes r≈Ωszekn≈Ωl a ChatGPT, illetve ez a youtube vide‚Äî: https://www.youtube.com/watch?v=EerdGm-ehJQ
+
