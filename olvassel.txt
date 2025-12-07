@@ -1,0 +1,16 @@
+Bertók András
+
+A mıködŒ weboldal URL címe
+
+A weboldal egy egyszerı, könnyen használható költségkövetŒ rendszer, amellyel a felhasználó rögzítheti a mindennapi kiadásait.
+A rögzített adatokból statisztikák és egyszerı grafikon készül, hogy könnyebb legyen átlátni a költekezést.
+
+A JavaScript fájl a "js/app.js" útvonalon található.
+Feladata az ırlapok (költség-rögzítés) validálása, az adatok tárolása a böngészŒ localStorage-ében, valamint a statisztikák és a grafikon megjelenítése a statisztikák oldalon.
+
+A weboldal a Google Fonts szolgáltatásból tölti be a "Poppins" betıtípust.
+A betıtípusok a HTML oldalak <head> részében kerülnek importálásra.
+
+A projektben felhasznált külsŒ forrás:
+- Google Fonts betıtípus
+- a JavaScript kódnál segített egyes részeknél a ChatGPT, illetve ez a youtube videó: https://www.youtube.com/watch?v=EerdGm-ehJQ

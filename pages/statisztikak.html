@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Statisztikák</title>
+  <link rel="icon" href="../assets/favicon.png" type="image/png">
+  <link rel="stylesheet" href="../css/style.css">
+  <script src="../js/app.js" defer></script>
+  <!-- Google Font: Poppins -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <header>
+    <h1>Statisztikák</h1>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Főoldal</a></li>
+        <li><a href="koltseg-rogzites.html">Költség-rögzítés</a></li>
+        <li><a href="statisztikak.html">Statisztikák</a></li>
+        <li><a href="tippek.html">Tippek</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Összesített adatok</h2>
+
+      <!-- EREDMÉNYEK DOBOZA -->
+      <div id="stats-summary">
+        <!-- Ezeket a JS fogja később feltölteni -->
+        <p><strong>Összes költés:</strong> <span id="total-spent">0</span> Ft</p>
+        <p><strong>Költségek száma:</strong> <span id="entry-count">0</span> db</p>
+        <p><strong>Legnagyobb tétel:</strong> <span id="max-expense">—</span></p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Kategóriák szerinti eloszlás</h2>
+
+      <!-- KATEGÓRIA LISTA -->
+      <ul id="category-stats">
+        <!-- JS tölti majd fel -->
+      </ul>
+    </section>
+
+    <section>
+      <h2>Grafikon a költéseid mértékéről kategóriák alapján</h2>
+
+      <!-- CANVAS hely grafikonhoz -->
+      <canvas id="statsChart" width="300" height="200"></canvas>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 — Bertók András</p>
+  </footer>
+</body>
+</html>
